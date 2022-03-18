@@ -1,1 +1,1 @@
-everything written in c, using CodingBat's lecture.
+everything written in c, using CodingBats java lecture.
